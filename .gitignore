@@ -1,2 +1,6 @@
-.idea/
-.idea_modules/
+.DS_Store
+node_modules/
+npm-debug.log
+.idea
+.env
+dist
